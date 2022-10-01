@@ -29,7 +29,7 @@ In this moment im not working with development, but i like to much this area. I'
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Dias-G&layout=compact&theme=radical"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Dias-G&show_icons=true&theme=radical">
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Dias-G&layout=compact&theme=radical"/>
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Dias-G&show_icons=true&theme=radical">
 </a>
 
