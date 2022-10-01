@@ -27,9 +27,9 @@ In this moment im not working with development, but i like to much this area. I'
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=40px height=40px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40px height=40px/>
 </div>
-<center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Dias-G&layout=compact&theme=radical"/>
-    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Dias-G&show_icons=true&theme=radical">
-  </a>
-</center>
+
+<div>
+<a href="https://github.com/Matheus-Dias-G">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Dias-G&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Dias-G&show_icons=true&theme=radical"/>
+</div>
