@@ -28,8 +28,8 @@ In this moment im not working with development, but i like to much this area. I'
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40px height=40px/>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Dias-G&layout=compact&theme=radical"/>
-  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Dias-G&show_icons=true&theme=radical">
+<a align=left href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Dias-G&layout=compact&theme=radical"/>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Dias-G&show_icons=true&theme=radical">
 </a>
 
